@@ -1,8 +1,18 @@
-const smartphone =  {
-    name : 'Realme',
-    model : '8',
-    price : 18000,
-    color : ['silver', 'black', 'gray']
-};
+// {
+//     let a = 10;
+//     console.log(a);
+// }
 
-console.log(smartphone['model']);
+let b = 20;
+b = 30;
+
+b = 'Akbar';
+b = true;
+console.log(b);
+
+const a = 20;
+console.log(a);
+
+
+
+
